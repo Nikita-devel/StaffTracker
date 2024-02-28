@@ -1,0 +1,6 @@
+[run]
+source = StaffTracker
+omit = 
+    tests/*
+    autoapp.py
+
